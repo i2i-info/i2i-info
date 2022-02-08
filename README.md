@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @i2i-info
+- 👋 Hi, I’m @Idea to Implementation infotech
 - 👀 I’m interested in React | Node | Vue | WordPress and many more technologies.
 - 📫 You can reach me with [Mail](info@i2i-info.com)
 
